@@ -1,5 +1,5 @@
 # Hotel-Management
-🏨 Hotel Management System – Python (No Libraries)
+🏨 Hotel Management System – Python
 A basic hotel management system developed using only core Python. This project uses simple functions and file handling to simulate essential hotel operations in a console-based environment.
 
 🔹 Features:
